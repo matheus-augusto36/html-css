@@ -64,6 +64,10 @@ main {
     margin-top: 10px;
 }
 
+main > article > h2 {
+    text-align: center;
+}
+
 article > h2 {
     padding-bottom: 20px;
 }
